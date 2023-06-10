@@ -21,7 +21,7 @@
 <div>
   ---
 
-### 👨‍💻: About Me :
+### 👨‍💻: About Me : Bachelor of science student at Denmarks technical university.
 
 - 🔭: I'am computer science & engineering student at DTU (General engineering - cyber systems).
 
