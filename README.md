@@ -19,6 +19,12 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/fsharp/fsharp-original.svg" title="Fsharp" alt="Fsharp" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="Html" alt="Html" width="40" height="40"/>&nbsp;
+
+  </div>
   ---
 
 ### 👨‍💻: About Me : Bachelor of science student at Denmarks technical university.
@@ -32,6 +38,8 @@
 - 📫:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-deiaa-131448160/)
 </div>
 
+<div>### :hammer_and_wrench: Languages and Tools :
+</div>
 <!--
 **ibohaji/ibohaji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
