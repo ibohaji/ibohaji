@@ -22,7 +22,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/fsharp/fsharp-original.svg" title="Fsharp" alt="Fsharp" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="Html" alt="Html" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="Html" alt="Html" width="40" height="40"/>&nbsp;>
 
   </div>
   ---
@@ -35,7 +35,7 @@
 
 - ⚡: In my free time, you can find me at the gym. 
 
-- 📫:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ibrahimdeiaa?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-deiaa-131448160/)
+- 📫:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-deiaa-131448160/)
 </div>
 
 <div>### :hammer_and_wrench: Languages and Tools :
@@ -54,3 +54,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
