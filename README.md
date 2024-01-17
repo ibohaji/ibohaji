@@ -26,7 +26,7 @@
 
 ### 👨‍💻: About Me : Bachelor of science student at Denmarks technical university.
 
-- 🔭: I'am computer science & engineering student at DTU (General engineering - cyber systems).
+- 🔭: I'am a computer science & engineering student at DTU (General engineering - cyber systems).
 
 - 🌱: Exploring oppurtunities to learn & grow.
 
